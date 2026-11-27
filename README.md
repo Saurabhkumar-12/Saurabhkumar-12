@@ -75,17 +75,11 @@
 ## 📡 GitHub Activity
 
 <div align="center">
-<img src="./assets/github-activity.svg" width="100%" alt="GitHub activity dashboard"/>
-<br><br>
-<img src="./assets/github-streak.svg" alt="GitHub streak"/>
-</div>
-
----
-
-## 🌌 Contribution Galaxy
-
-<div align="center">
-<img src="./assets/contribution-galaxy.gif" width="100%" alt="Saurabh's GitHub Contribution Galaxy"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saurabhkumar-12&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=Saurabhkumar-12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saurabhkumar-12&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ---
